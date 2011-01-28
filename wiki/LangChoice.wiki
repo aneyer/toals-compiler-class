@@ -5,12 +5,7 @@
 
 I'm going to do the code for the compiler either in Java, C, or javascript. 
 
-Add your content here.
-
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+As the project progresses, I will have a better idea of what language to use.

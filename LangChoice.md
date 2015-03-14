@@ -1,0 +1,8 @@
+# Introduction #
+
+I'm going to do the code for the compiler either in Java, C, or javascript.
+
+
+# Details #
+
+As the project progresses, I will have a better idea of what language to use.
